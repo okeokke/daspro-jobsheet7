@@ -4,13 +4,16 @@
 2. [Percobaan 2](#percobaan-1)
 - [Pertanyaan](#pertanyaan-1)
     * [Jawaban](#jawaban-1)
+3. [Percobaan 3](#percobaan-2)
+- [Pertanyaan](#pertanyaan-2)
+    * [Jawaban](#jawaban-2)
 
 ## Percobaan 1
 ### Pertanyaan
 1. Sebutkan dan tunjukkan masing-masing komponen perulangan FOR pada kode program Percobaan 1
 2. Mengapa  variabel  tertinggi  diinisialisasi  0  dan  terendah  diinisialisasi  100?  Apa  yang terjadi jika variabel tertinggi diinisialisasi 100 dan terendah diinisialisasi 0? 
 3. Jelaskan fungsi dan alur kerja dari potongan kode berikut!
-```
+```java
 if (nilai > tertinggi) {
     tertinggi = nilai;
 }
@@ -67,3 +70,23 @@ Sebelum modifikasi\
 ![Output sebelum modifikasi](/Before_Per2.png)\
 Setelah Modifikasi\
 ![Output setelah modifikasi](/After_Per2.png)
+
+
+
+## Percobaan 3
+[KafeDoWhile08.java](/KafeDoWhile08.java)
+
+### Pertanyaan
+1. Pada penggunaan DO-WHILE ini, apabila nama pelanggan yang dimasukkan pertama kali adalah “batal”, maka berapa kali perulangan dilakukan? 
+2. Sebutkan kondisi berhenti yang digunakan pada perulangan DO-WHILE tersebut! 
+3. Apa fungsi dari penggunaan nilai true pada kondisi DO-WHILE? 
+4. Mengapa perulangan DO-WHILE tersebut tetap berjalan meskipun tidak ada komponen inisialisasi dan update? 
+
+### Jawaban
+1. 0, karena kode yang ter-eksekusi hanya sampai titik break dan kode yang diluar perulangan, yang berarti tidak ada yang diulang/tidak ada perulangan yang terjadi.
+
+2. kondisi berhenti yang seperti biasanya tidak ada karena kondisi yang dicek hanya (true) dan karena tidak ada yang bisa mengubah value kondisi, maka secara teknis ini adalah perulangan tak hingga/infinite/indefinite loop. tetapi, di dalam bagian perulangan tersebut, terdapat if statement yang jika kondisinya terpenuhi, akan juga mengeksekusi perintah 'break', yang menjadi kondisi berhenti yang mengakhiri perulangan di tengah kode/proses dan akan melanjutkan kode yang ada di luar loop.
+
+3. true digunakan untuk mengizinkan bagian kode dalam perulangan untuk diulang seterusnya tanpa batas, atau jika ingin batasan tergantung apa yang di-input user dengan perintah kode 'break'.
+
+4. karena pada DO-WHILE, kode (atau sebagian kode sebelum eksekusi perintah break) pasti akan dilakukan minimal satu kali sebelum pengecekan kondisi pada while. selain itu, sintaks WHILE juga pada dasarnya hanya memiliki pengecekan kondisi, tidak mewajibkan adanya inisialisasi, dan update meskipun bisa ditambahkan secara opsional dalam bagian eksekusi perulangan seperti halnya pada sintaks for seperti contoh menggunakan i++ sebagai update.
