@@ -1,3 +1,10 @@
+# Tugas
+### Tugas 1
+[T1Job7_08.java](/T1Job7_08.java)
+### Tugas 2 
+[T2Job7_08.java](/T2Job7_08.java)
+
+# Percobaan
 1. [Percobaan 1](#percobaan-1)
 - [Pertanyaan](#pertanyaan)
     * [Jawaban](#jawaban)
@@ -9,6 +16,7 @@
     * [Jawaban](#jawaban-2)
 
 ## Percobaan 1
+(File pra-modifikasi terdapat pada history commit, file pasca-modifikasi berada di jawaban No.4)
 ### Pertanyaan
 1. Sebutkan dan tunjukkan masing-masing komponen perulangan FOR pada kode program Percobaan 1
 2. Mengapa  variabel  tertinggi  diinisialisasi  0  dan  terendah  diinisialisasi  100?  Apa  yang terjadi jika variabel tertinggi diinisialisasi 100 dan terendah diinisialisasi 0? 
@@ -39,6 +47,7 @@ Hal yang sama terjadi pada if statement selanjutnya, tetapi sekarang mencari dan
 
 
 ## Percobaan 2
+(File pra-modifikasi terdapat pada history commit, file pasca-modifikasi berada di jawaban No.4)
 ### Pertanyaan
 1. Pada potongan kode berikut, tentukan maksud dan kegunaan dari sintaks berikut :
 ```java
