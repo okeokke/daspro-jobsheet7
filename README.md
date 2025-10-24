@@ -1,10 +1,10 @@
 1. [Percobaan 1](#percobaan-1)
 - [Pertanyaan](#pertanyaan)
     * [Jawaban](#jawaban)
-2. [Percobaan 2](#percobaan-1)
+2. [Percobaan 2](#percobaan-2)
 - [Pertanyaan](#pertanyaan-1)
     * [Jawaban](#jawaban-1)
-3. [Percobaan 3](#percobaan-2)
+3. [Percobaan 3](#percobaan-3)
 - [Pertanyaan](#pertanyaan-2)
     * [Jawaban](#jawaban-2)
 
