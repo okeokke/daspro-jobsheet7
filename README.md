@@ -24,4 +24,4 @@ Dan karena nilai yang kita input hanya pada rentang 0-100, nilai yang kita input
 3. fungsi dari pernyataan if pertama tersebut adalah jika sebuah variabel '**nilai**' memiliki nilai lebih tinggi daripada variabel '**tertinggi**', maka variabel '**tertinggi**' akan di-update atau diassign nilai baru yang mengikuti nilai dari variabel '**nilai**', dan hal tersebut akan berulang mulai dari nilai/value paling rendah dan akan terus berubah menjadi value yang lebih tinggi tiap ada nilai baru dan tiap perulangan. 
 Hal yang sama terjadi pada if statement selanjutnya, tetapi sekarang mencari dan meng-assign value yang lebih rendah mulai dari value tertinggi dan akan terus berulang dan meng-assign variabel '**terendah**' dengan nilai yang lebih rendah seterusnya sampai akhir perulangan. 
 
-4. 
+4. [SiakadFor08.java](https://github.com/okeokke/daspro-jobsheet7/blob/main/SiakadFor08.java)
