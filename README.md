@@ -55,4 +55,8 @@ B. continue berfungsi untuk melewati sisa kode selanjutnya di dalam bagian perul
 
 3. 19 kali, karena penghitung dimulai dari value 0 sebagai hitungan pertama dan value 18 sebagai hitungan terakhir karena kondisi yang diatur adalah variabel i (yang dimulai dari value 0) harus kurang dari value variabel jml dengan value 19 yang menghasilkan 19 pasang angka dimulai dari value 0 sebagai hitungan pertama.
 
-<!-- 4. & 5. [SiakadWhile08.java](https://github.com/okeokke/daspro-jobsheet7/blob/main/SiakadWhile08.java) -->
+4. & 5. [SiakadWhile08.java](https://github.com/okeokke/daspro-jobsheet7/blob/main/SiakadWhile08.java)\
+Sebelum modifikasi\
+![Output sebelum modifikasi](https://github.com/okeokke/daspro-jobsheet7/blob/main/Before_Per2.png)\
+Setelah Modifikasi\
+![Output sebelum modifikasi](https://github.com/okeokke/daspro-jobsheet7/blob/main/After_Per2.png)
