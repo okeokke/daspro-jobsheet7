@@ -1,3 +1,10 @@
+1. [Percobaan 1](#percobaan-1)
+- [Pertanyaan](#pertanyaan)
+    * [Jawaban](#jawaban)
+2. [Percobaan 2](#percobaan-1)
+- [Pertanyaan](#pertanyaan-1)
+    * [Jawaban](#jawaban-1)
+
 ## Percobaan 1
 ### Pertanyaan
 1. Sebutkan dan tunjukkan masing-masing komponen perulangan FOR pada kode program Percobaan 1
@@ -24,7 +31,7 @@ Dan karena nilai yang kita input hanya pada rentang 0-100, nilai yang kita input
 3. fungsi dari pernyataan if pertama tersebut adalah jika sebuah variabel '**nilai**' memiliki nilai lebih tinggi daripada variabel '**tertinggi**', maka variabel '**tertinggi**' akan di-update atau diassign nilai baru yang mengikuti nilai dari variabel '**nilai**', dan hal tersebut akan berulang mulai dari nilai/value paling rendah dan akan terus berubah menjadi value yang lebih tinggi tiap ada nilai baru dan tiap perulangan.\
 Hal yang sama terjadi pada if statement selanjutnya, tetapi sekarang mencari dan meng-assign value yang lebih rendah mulai dari value tertinggi dan akan terus berulang dan meng-assign variabel '**terendah**' dengan nilai yang lebih rendah seterusnya sampai akhir perulangan. 
 
-4. [SiakadFor08.java](https://github.com/okeokke/daspro-jobsheet7/blob/main/SiakadFor08.java)
+4. [SiakadFor08.java](/SiakadFor08.java)
 
 
 
@@ -55,8 +62,8 @@ B. continue berfungsi untuk melewati sisa kode selanjutnya di dalam bagian perul
 
 3. 19 kali, karena penghitung dimulai dari value 0 sebagai hitungan pertama dan value 18 sebagai hitungan terakhir karena kondisi yang diatur adalah variabel i (yang dimulai dari value 0) harus kurang dari value variabel jml dengan value 19 yang menghasilkan 19 pasang angka dimulai dari value 0 sebagai hitungan pertama.
 
-4. & 5. [SiakadWhile08.java](https://github.com/okeokke/daspro-jobsheet7/blob/main/SiakadWhile08.java)\
+4. & 5. [SiakadWhile08.java](/SiakadWhile08.java)\
 Sebelum modifikasi\
-![Output sebelum modifikasi](https://github.com/okeokke/daspro-jobsheet7/blob/main/Before_Per2.png)\
+![Output sebelum modifikasi](/Before_Per2.png)\
 Setelah Modifikasi\
-![Output sebelum modifikasi](https://github.com/okeokke/daspro-jobsheet7/blob/main/After_Per2.png)
+![Output setelah modifikasi](/After_Per2.png)
